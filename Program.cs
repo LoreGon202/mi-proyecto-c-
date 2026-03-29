@@ -1,10 +1,16 @@
-﻿using System;
+using System;
 
-class Program
+namespace HelloWorld
 {
-    static void Main()
+    class Program
     {
-        Console.WriteLine("Hello, World!");
-        Console.ReadLine();
+        static void Main()
+        {
+           var Name = "Jhon";
+           Name = "1Jhon";
+
+            Console.WriteLine($"Hello world! {Name}");
+            Console.WriteLine();
+        }
     }
 }
