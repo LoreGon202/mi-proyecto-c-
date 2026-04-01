@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 ﻿using System;
-
 namespace HelloWorld
 {
     class Program
@@ -15,8 +13,4 @@ namespace HelloWorld
         }
     }
 }
-=======
-
-        Console.WriteLine("Hello, World!");
-        Console.ReadLine();
->>>>>>> 4594e97ca0a6d36b52b407d3ecbf2fe4f37a9c75
+Console.WriteLine("PRUEBA GIT");
