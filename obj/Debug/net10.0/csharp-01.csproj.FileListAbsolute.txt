@@ -7,6 +7,7 @@ C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\csharp-01.GeneratedMSBuildEdit
 C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\csharp-01.AssemblyInfoInputs.cache
 C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\csharp-01.AssemblyInfo.cs
 C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\csharp-01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\csharp-01.sourcelink.json
 C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\csharp-01.dll
 C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\refint\csharp-01.dll
 C:\Users\Usuario\proj\csharp-01\obj\Debug\net10.0\csharp-01.pdb
